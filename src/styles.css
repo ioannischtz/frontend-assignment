@@ -36,8 +36,8 @@
     --warning: 32 97% 45%;
     --warning-foreground: 36 45% 94%;
 
-    --destructive: 347 97% 45%;
-    --destructive-foreground: 350 45% 94%;
+    --danger: 347 97% 45%;
+    --danger-foreground: 350 45% 94%;
 
     --ring: 227 13.1% 40.8%;
 
@@ -75,8 +75,8 @@
     --warning: 31.4 85% 54.8%;
     --warning-foreground: 32.1 52% 8.4%;
 
-    --destructive: 340.8 85% 54.8%;
-    --destructive-foreground: 350 52% 8.4%;
+    --danger: 340.8 85% 54.8%;
+    --danger-foreground: 350 52% 8.4%;
 
     --ring: 230 12.1% 36.7%;
 
